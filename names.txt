@@ -9,6 +9,8 @@ Git commit = git commit -m "message"
 Git push = git push -u origin (branch name ~ example main, master, etc but branch should exist)
 Git for branch check = git branch
 Git for new branch = git branch -b "branch name"
+For new branch correct one = git switch -c "dev"
+
 Git add remote origin = git remote add origin [Repositry URL path]
 Git username = git username 
 Git reset = git reset --hard origin/main
